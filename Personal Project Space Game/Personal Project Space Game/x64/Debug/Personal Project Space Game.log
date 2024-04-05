@@ -1,0 +1,56 @@
+﻿  Asteroid.cpp
+  Box.cpp
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\Box.cpp(7,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Asteroid.cpp')
+  
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\Box.cpp(8,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Asteroid.cpp')
+  
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\Box.cpp(9,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Asteroid.cpp')
+  
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\Box.cpp(10,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Asteroid.cpp')
+  
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\Asteroid.h(9,17): error C3668: 'Asteroid::AffectPlayer': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'Asteroid.cpp')
+  
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\Box.cpp(7,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\Box.cpp(8,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\Box.cpp(9,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\Box.cpp(10,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  DodgeMe.cpp
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\DodgeMe.h(10,17): error C3668: 'DodgeMe::AffectPlayer': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'DodgeMe.cpp')
+  
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\DodgeMe.cpp(5,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  FreeHealth.cpp
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\FreeHealth.h(9,17): error C3668: 'FreeHealth::AffectPlayer': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'FreeHealth.cpp')
+  
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\FreeHealth.cpp(5,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  HitMe.cpp
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\HitMe.h(9,17): error C3668: 'HitMe::AffectPlayer': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'HitMe.cpp')
+  
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\HitMe.cpp(5,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Stars.cpp
+  WorldManager.cpp
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\DodgeMe.h(10,17): error C3668: 'DodgeMe::AffectPlayer': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'WorldManager.cpp')
+  
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\HitMe.h(9,17): error C3668: 'HitMe::AffectPlayer': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'WorldManager.cpp')
+  
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\FreeHealth.h(9,17): error C3668: 'FreeHealth::AffectPlayer': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'WorldManager.cpp')
+  
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\Asteroid.h(9,17): error C3668: 'Asteroid::AffectPlayer': method with override specifier 'override' did not override any base class methods
+  (compiling source file 'WorldManager.cpp')
+  
+  Player.cpp
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\Player.cpp(7,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\Player.cpp(8,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\Player.cpp(9,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cougar's the Name\Documents\Random School Stuff\Year 3\Semester 1\Applied Programing\Final Project\Personal Project Space Game\Personal Project Space Game\Player.cpp(10,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
